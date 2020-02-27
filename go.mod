@@ -1,4 +1,4 @@
-module github.com/cyralinc/brewOPA
+module github.com/brewOPA/brewOPA
 
 go 1.12
 

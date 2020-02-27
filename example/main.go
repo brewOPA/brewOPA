@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/cyralinc/brewOPA"
+	"github.com/brewOPA/brewOPA"
 )
 
 func main() {
